@@ -1,0 +1,20 @@
+2) Preenchimento de espaço de Hilbert
+Regras:  X => -YF+XFX+FY-     Y => +XF-YFY-FX+ 
+Angulo(em graus): 90 	 Axioma: X 
+Aluno: Bruno Soares e Silva   Turma: TW
+Matrícula: 2021037082
+
+Estágio: 0
+Fractal: X
+
+Estágio: 1
+Fractal: -F+F+F-
+
+Estágio: 2
+Fractal: -+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-
+
+Estágio: 3
+Fractal: -+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-
+
+Estágio: 4
+Fractal: -+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-+F+-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-F-+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+F+-F+F+F-F-+F-F-F+F+F-F-F+-F-F+F+F-+-F-+F-F-F+F+-F+F+F-F-F+F+F-+F+F-F-F+-+-

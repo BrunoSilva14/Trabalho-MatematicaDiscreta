@@ -1,0 +1,20 @@
+3) Fractal proposto por autoria própria (Bruno Soares e Silva)
+Regras:  X => XF+F-FF-Y-FF-F+FX     Y => YF-F+FF+X+FF+F-FY 
+Angulo(em graus): 60 	 Axioma: +X+ 
+Aluno: Bruno Soares e Silva   Turma: TW
+Matrícula: 2021037082
+
+Estágio: 0
+Fractal: +X+
+
+Estágio: 1
+Fractal: +F+F-FF--FF-F+F+
+
+Estágio: 2
+Fractal: +F+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+F+
+
+Estágio: 3
+Fractal: +F+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+F+
+
+Estágio: 4
+Fractal: +F+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-FF-F+FF+F+F-FF--FF-F+F+FF+F-FF-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+FF+F-FF-F-F+FF++FF+F-F-FF-F+FF+F-FF--FF-F+F+

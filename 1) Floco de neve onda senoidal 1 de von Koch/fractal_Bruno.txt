@@ -1,0 +1,19 @@
+1) Floco de neve onda senoidal 1 de von Koch
+Regra:  F => F-F++FF--F+F 	 Angulo(em graus): 60 	 Axioma: F 
+Aluno: Bruno Soares e Silva   Turma: TW
+Matrícula: 2021037082
+
+Estágio: 0
+Fractal: F
+
+Estágio: 1
+Fractal: F-F++FF--F+F
+
+Estágio: 2
+Fractal: F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F
+
+Estágio: 3
+Fractal: F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F
+
+Estágio: 4
+Fractal: F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F++F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+FF-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F--F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F+F-F++FF--F+F-F-F++FF--F+F++F-F++FF--F+FF-F++FF--F+F--F-F++FF--F+F+F-F++FF--F+F
